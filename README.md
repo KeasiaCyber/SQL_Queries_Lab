@@ -1,10 +1,12 @@
 <h1>Apply filters to SQL queries</h1>
 
-
 <h2>Description</h2>
- My organization is working to make their system more secure. It is my job to ensure the system
- is safe, investigate a l potential security issues, and update employee computers as needed.
- The folowing steps provide examples of how I used SQL with lters to perform security-related tasks.
+As a key member of the security team at my organization, I'm entrusted with fortifying our systems against threats. My responsibilities include conducting thorough security assessments, promptly investigating any potential vulnerabilities, and ensuring that employee computers are updated to mitigate risks. To illustrate, I employed SQL with filters to perform targeted security tasks, streamlining the identification and resolution of security issues.
+
+<h2>Scenario</h2>
+My organization is working to make their system more secure. It is my job to ensure the system
+is safe, investigate a l potential security issues, and update employee computers as needed.
+The folowing steps provide examples of how I used SQL with lters to perform security-related tasks.
 <br />
 
 
